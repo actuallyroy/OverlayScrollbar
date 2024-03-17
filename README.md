@@ -1,5 +1,3 @@
----
-
 # OverlayScrollbar
 
 `OverlayScrollbar` is a lightweight and customizable JavaScript library for implementing custom scrollbars. It replaces the default browser scrollbar with a custom one that can be styled using CSS, improving the overall look and feel of your web application.
@@ -76,5 +74,3 @@ You can style the scrollbar and its thumb by targeting the specified class names
 ## Compatibility
 
 `OverlayScrollbar` is compatible with modern browsers that support ES6. For older browsers, you may need to include polyfills for ES6 features.
-
----
